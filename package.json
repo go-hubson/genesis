@@ -1,0 +1,8 @@
+{
+  "name": "Advanced Kubernetes",
+  "packageManager": "yarn@3.3.1",
+  "workspaces": [
+    "components-ts/*",
+    "packages-ts/*"
+  ]
+}

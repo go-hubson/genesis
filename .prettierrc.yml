@@ -1,0 +1,17 @@
+semi: false
+singleQuote: true
+
+# importOrder:
+#   - "reflect-metadata"
+#   - "<THIRD_PARTY_MODULES>"
+#   - "^@(.*)/(.*)$"
+#   - "^[./]"
+# importOrderParserPlugins:
+#   - typescript
+#   - classProperties
+#   - decorators-legacy
+#   # - "[\"decorators\", { \"decoratorsBeforeExport\": true }]"
+# importOrderCaseInsensitive: false
+# importOrderGroupNamespaceSpecifiers: true
+# importOrderSeparation: true
+# importOrderSortSpecifiers: true
